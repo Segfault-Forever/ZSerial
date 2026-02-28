@@ -1,2 +1,2 @@
-# zerial
-Serial terminal written in zig
+# ZSerial
+ZSerial is a serial terminal written in zig
